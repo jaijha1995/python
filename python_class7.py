@@ -7,6 +7,10 @@ Original file is located at
     https://colab.research.google.com/drive/1a9ZpZveUI7_Boqd5RN753-lwjkUU4PfX
 """
 
+
+import numpy as np
+
+
 import datetime
 
 import datetime
